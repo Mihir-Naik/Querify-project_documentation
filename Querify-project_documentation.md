@@ -2,6 +2,8 @@
 -- 
 
 - Link for deployed version: [Querify](https://querify.herokuapp.com/)
+	
+	**Test email: `byran@ga.com` Password: `password`**
 - Link for Code: [Github](https://github.com/Mihir-Naik/Querify)
 
 --- 
