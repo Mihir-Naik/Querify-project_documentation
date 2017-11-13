@@ -87,7 +87,7 @@ There are some conditional rendering features based on whether logged in user is
 
 - **Overall understanding of the REACT concepts and how it works.**
 
-Given 4 days of time to develop a full Stack application using MERN Stack after barely 2 weeks of learning REACT was definately a challenge. 
+Given 4 days of time to develop a full Stack application using MERN Stack after barely 2 weeks of learning REACT was definitely a challenge. 
 The approach to face the challenge was to do research on how things exactly work in functional programming and try `throw away` codes to understand the concepts. Also, ***`console.log()` was definately the best teacher/helper to understand the processflow and understand functions.***
 
 - **Finding Bugs and Debugging them**
@@ -104,7 +104,7 @@ The challenge to work on design part of the application was mainly due to the ti
 
 - For now, A user can like/dislike or vote for any content multiple times.
 In future, it would be limited for each user to do any of these things only once. 
-- Definately more designing and improvement in the user interface is planned for future.
+- Definitely more designing and improvement in the user interface is planned for future.
 
 
 -- 
